@@ -35,7 +35,7 @@
 
 bash
 pip install -r requirements.txt
-Скачайте database.sqlite и положите в data/raw/.
+Скачайте database.sqlite.
 
 ## Откройте Jupyter Notebook:
 
